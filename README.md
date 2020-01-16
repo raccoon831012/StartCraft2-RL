@@ -10,7 +10,7 @@
     Python 3.6
     Pysc2 2.0
     Tensorflow 1.13.1
-    Sc2gym-master
+    Sc2gym-master https://github.com/islamelnabarawy/sc2gym (本專案中的sc2gym檔案已添加全部小遊戲環境)
 
 環境安裝
 ----
