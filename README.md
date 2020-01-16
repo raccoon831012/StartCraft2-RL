@@ -1,4 +1,12 @@
 # StartCraft2-RL
+大綱
+----
+    簡介
+    使用環境
+    環境安裝
+    RL安裝
+    使用訓練
+    參考資料
 
 簡介
 -----
@@ -72,7 +80,7 @@
             SC2BuildMarinesBigMap-v1
             BuildAndDefeat-v3
             BuildAndDefeat-v4
-RL使用訓練
+使用訓練
 ----
     1.	進入SC2_RL資料夾
     2.	從頭開始訓練根據上述的環境不同選擇不同的資料夾及程式碼
