@@ -1,0 +1,7 @@
+README.md
+setup.py
+sc2gym.egg-info/PKG-INFO
+sc2gym.egg-info/SOURCES.txt
+sc2gym.egg-info/dependency_links.txt
+sc2gym.egg-info/requires.txt
+sc2gym.egg-info/top_level.txt
